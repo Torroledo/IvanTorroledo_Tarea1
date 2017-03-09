@@ -1,3 +1,4 @@
-# Solving the Fermi-Pasta_Ulam-Tsingou problem for 1 dimensional solid. 
+# The Fermi-Pasta-Ulam-Tsingou problem
+Solving for a 1-Dimensional solid. 
 
 Repository for the solution of Advanced Computational Methods Homowerk.

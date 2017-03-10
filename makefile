@@ -1,6 +1,6 @@
 all: time.png
 
-time.png: time1.dat time2.dat time4.dat energy.png
+time.png: energy.png
 	python timePlot.py
 energy.png: energy.dat
 	python energyPlot.py
